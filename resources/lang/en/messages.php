@@ -9,5 +9,8 @@ return [
     "lang" =>"en" ,
     "link"=> "ar" , 
     "dir"=>"ltr", 
-    "mazen" =>"mazen"
+    "mazen" =>"mazen" ,
+    "Starter_Page" => "Starter Page",
+    "home" => "home" ,
+    "Title" => 'Title',
 ];

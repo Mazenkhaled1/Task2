@@ -9,5 +9,12 @@ return [
     "lang" =>"ar" ,
     "link"=> "en" , 
     "dir"=>"rtl",
-    "mazen" =>"مازن"
+    "mazen" =>"مازن" , 
+    "Starter_Page" => "صفحة البداية",
+    "home" => "الرئيسيه",
+    "Title" => 'العنوان',
+
+
+
+
 ];
