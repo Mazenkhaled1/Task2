@@ -45,17 +45,6 @@ Route::get("change/{lang}" , function($lang) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 // admin 
 Route::prefix('dashboard')->group(function(){
     Route::get('/' , [HomeController::class , 'index'])->name('/')->middleware('language');
